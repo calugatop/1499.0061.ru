@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>https://1499.0061.ru/index.html</loc>
+		<lastmod>2021-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://1499.0061.ru/images/KALUGA1.png</image:loc>
+			<image:title><![CDATA[Николай Калуга]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://1499.0061.ru/imsitemap.html</loc>
+		<lastmod>2021-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>
